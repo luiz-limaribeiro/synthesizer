@@ -13,8 +13,8 @@ A web-based synthesizer built with React and the Web Audio API. Create sound sam
 
 ## Features (WIP)
 
-- [x] Basic oscillator (WIP)
-- [ ] Filter module
+- [x] Basic oscillator
+- [x] Filter module (WIP)
 - [ ] ADSR envelope generator
 - [ ] Virtual keyboard input
 - [ ] Master volume control
